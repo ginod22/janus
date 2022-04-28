@@ -1,9 +1,8 @@
 # Janus
-### Team Members: Oliver Bunner (Section A) and Gino Doumit (Section B)
+### Team Members: 
+#### Oliver Bunner (Section A) and Gino Doumit (Section B)
 ### Georgia Institute of Technology
-#
-#
-#
+
 
 #### Project Overview
 ##### Idea
