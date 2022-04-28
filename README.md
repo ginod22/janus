@@ -39,11 +39,13 @@ Buttons:
 ##### Parts Used
 - [mBed](https://os.mbed.com/cookbook/Homepage)
 - [uLCD](https://os.mbed.com/users/4180_1/notebook/ulcd-144-g2-128-by-128-color-lcd/)
-- [DC Motors](https://os.mbed.com/cookbook/Motor)
-- [Speaker](https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/v)
+- [2x DC Motors](https://os.mbed.com/cookbook/Motor)
+- 2N9304 BJT
+- [Speaker](https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/)
 - [H-Bridge](https://os.mbed.com/cookbook/Motor)
 - [Microphone](https://os.mbed.com/components/Adafruit-MEMS-Microphone-Breakout-SPW243/)
 - [Bluetooth Chip](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/)
+- Wheels and car frame
 
 N.B: All of the parts used are the ones present in the links. 
 
@@ -52,6 +54,7 @@ N.B: All of the parts used are the ones present in the links.
 
 
 #### Wiring
+
 
 
 ### Software 
