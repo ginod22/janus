@@ -58,9 +58,9 @@ N.B: All of the parts used are the ones present in the links.
 ![mBed Wiring](https://github.com/ginod22/janus/blob/main/Wiring/mBed.png)
 ![uLCD Wiring](https://github.com/ginod22/janus/blob/main/Wiring/uLCD.png)
 ![Microphone Wiring](https://github.com/ginod22/janus/blob/main/Wiring/Microphone.png)
-![Speaker Wiring](https://github.com/ginod22/janus/blob/main/Wiring/Speaker.png)
+![Speaker Wiring](https://github.com/ginod22/janus/blob/main/Wiring/Speaker2.png)
 ![Bluetooth Chip Wiring](https://github.com/ginod22/janus/blob/main/Wiring/Bluetooth.png)
-![Motors + H-Bridge Wiring]()
+![Motors + H-Bridge Wiring](https://github.com/ginod22/janus/blob/main/Wiring/MHB.png)
 
 
 ### Software 
