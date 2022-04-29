@@ -3,6 +3,13 @@
 #### Oliver Bunner (Section A) and Gino Doumit (Section B)
 ### Georgia Institute of Technology
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 
 #### Project Overview
 ##### Idea
