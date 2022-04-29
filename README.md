@@ -3,13 +3,6 @@
 #### Oliver Bunner (Section A) and Gino Doumit (Section B)
 ### Georgia Institute of Technology
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
-
 
 #### Project Overview
 ##### Idea
@@ -23,6 +16,8 @@ The device aims to provide a smooth experience for any person who wants to opera
 - View the state the car is in on the LCD
 
 ##### Video
+[![Janus Video](https://img.youtube.com/vi/OMFZVEqdtZU/0.jpg)](https://www.youtube.com/watch?v=OMFZVEqdtZU)
+
 
 
 ##### Controls
