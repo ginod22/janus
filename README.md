@@ -67,7 +67,7 @@ N.B: All of the parts used are the ones present in the links.
 
 To upload the code to your mBed, there are two options. The first option is to import the src file found in this repository to your mBed compiler. The other option is to copy the code found below into your main.cpp file in your mBed compiler. However, if you are using the second option, then be sure to import all of the necessary libraries. 
 
-```
+```cpp
 #include "mbed.h"
 #include "Motor.h"
 #include "uLCD_4DGL.h"
